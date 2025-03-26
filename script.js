@@ -21,7 +21,7 @@ document.addEventListener('DOMContentLoaded', function() {
   
   // Terminal typing effect
   const terminalText = document.getElementById('terminal-text');
-  const text = "print 《"Hey! Im Zara!"》";
+  const text = "echo Hey! Im Zara!";
   let index = 0;
   
   function typeWriter() {
